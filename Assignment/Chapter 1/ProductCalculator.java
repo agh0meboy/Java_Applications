@@ -21,3 +21,4 @@ public class ProductCalculator{
         System.out.printf("Product is %d%n", result);
     }
 }
+
